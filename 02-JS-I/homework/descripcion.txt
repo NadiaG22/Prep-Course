@@ -1,0 +1,5 @@
+Variable: Guardar un valor que se va a utilizar más tarde.
+String: Bloques de textos que se escriben entre comillas.
+Funciones: Conjunto de líneas de código que realizan una tarea específica y retornan en algo.
+Declaraciones: Nombre y tipo de dato de una variable.
+Valores booleanos: Tipo de dato que tiene dos valores (true/false).
